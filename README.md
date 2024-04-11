@@ -4,9 +4,8 @@
 
  ## Sobre mi
 
- Hola, me llamo Sumit Mahi. Soy estudiante de DAW. 
+Hola, me llamo Sumit Mahi. Soy estudiante de DAW y me apasiona el campo de la informática. Siempre estoy interesado en aprender más sobre las tecnologías emergentes y mejorar mis habilidades en el campo de la informática. Me encanta explorar nuevas ideas y soluciones innovadoras dentro del mundo de las tecnologías de la información.
 
- 
 <!--
 **mahisumit/mahisumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
