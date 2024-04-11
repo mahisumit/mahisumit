@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://github.com/mahisumit/mahisumit/blob/main/resources/hello.png" alt="Hello world">
 
  # Im Sumit Mahi.
 <!--
