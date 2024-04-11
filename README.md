@@ -9,7 +9,7 @@
   📞 +34 612476550 <br>
   📧 s.mahi@sapalomera.cat
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+<img src="https://github.com/mahisumit/mahisumit/blob/main/resources/p.gif" alt="Hello world">
 
 
 <!--
