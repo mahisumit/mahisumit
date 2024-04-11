@@ -2,7 +2,11 @@
 
 <img src="https://github.com/mahisumit/mahisumit/blob/main/resources/hello.png" alt="Hello world">
 
- # Im Sumit Mahi.
+ ## Sobre mi
+
+ Hola, me llamo Sumit Mahi. Soy estudiante de DAW. 
+
+ 
 <!--
 **mahisumit/mahisumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
