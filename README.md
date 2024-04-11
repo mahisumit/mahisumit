@@ -9,10 +9,8 @@
   📞 +34 612476550 <br>
   📧 s.mahi@sapalomera.cat
 
-  <snakesvg>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</snakesvg>
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
 
 <!--
 **mahisumit/mahisumit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
