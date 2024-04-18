@@ -3,8 +3,7 @@
 <img src="https://github.com/mahisumit/mahisumit/blob/main/resources/hello.png" alt="Hello world">
 
  ## Sobre mi
-  Hola, me llamo Sumit Mahi. Soy estudiante de DAW y me apasiona la informática. Siempre estoy interesado en aprender más sobre tecnologías emergentes y mejorar mis habilidades en la informática. Me encanta explorar nuevas ideas y soluciones innovadoras dentro del mundo de las tecnologías de la información.
-
+  Hola, me llamo Sumit Mahi. Soy estudiante de DAW y me apasiona la informática. Siempre estoy interesado en aprender más sobre tecnologías emergentes y mejorar mis habilidades en la informática. Disfruto explorando ideas nuevas y soluciones innovadoras en el mundo de la tecnología de la información.
 ## Contacto
   📞 +34 612476550 <br>
   📧 s.mahi@sapalomera.cat
