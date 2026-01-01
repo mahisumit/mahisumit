@@ -3,7 +3,7 @@
 <img src="https://github.com/mahisumit/mahisumit/blob/main/resources/hello.png" alt="Hello world">
 
  ## 🚀Sobre mi
- ¡Hola!, me llamo Sumit Mahi. Soy estudiante de DAW y me apasiona la informática. Siempre estoy interesado en aprender más sobre tecnologías emergentes y mejorar mis habilidades en la informática. Disfruto explorando ideas nuevas y soluciones innovadoras en el mundo la informática.
+ ¡Hola!, me llamo Sumit Mahi. Titulado en Desarrollo de Aplicaciones Web (DAW) y Sistemas Microinformáticos y Redes (SMX). Trabajo con PHP, MySQL, Docker, LDAP, Apache, IIS y Linux/Windows Server. Siempre aprendiendo y desarrollando proyectos prácticos.
  
  ## 🗣️ Habilitats lingüístiques
 | Idioma   | Nivel |
