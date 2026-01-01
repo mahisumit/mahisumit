@@ -3,7 +3,7 @@
 <img src="https://github.com/mahisumit/mahisumit/blob/main/resources/hello.png" alt="Hello world">
 
  ## 🚀Sobre mi
- ¡Hola!, me llamo Sumit Mahi. Titulado en Desarrollo de Aplicaciones Web (DAW) y Sistemas Microinformáticos y Redes (SMX). Trabajo con PHP, MySQL, Docker, LDAP, Apache, IIS y Linux/Windows Server. Siempre aprendiendo y desarrollando proyectos prácticos.
+ ¡Hola!, me llamo Sumit Mahi. Titulado en Desarrollo de Aplicaciones Web (DAW) y Sistemas Microinformáticos y Redes (SMX). Trabajo con PHP, MySQL, Docker, LDAP, Apache, Microsoft, Google Services IIS y Linux/Windows Server. Siempre aprendiendo y desarrollando proyectos prácticos.
  
  ## 🗣️ Habilitats lingüístiques
 | Idioma   | Nivel |
